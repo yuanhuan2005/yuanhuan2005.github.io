@@ -459,7 +459,7 @@
 					}
 
 					ul.social li a:before {
-						background-color: #444;
+						background-color: #43B3E0;
 						background-image: url('images/bg.png'),		-moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
 						background-image: url('images/bg.png'),		-ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
 						background-image: url('images/bg.png'),		-o-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
@@ -467,7 +467,7 @@
 						background-image: url('images/bg.png'),		linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.2));
 						border-radius: 6px;
 						box-shadow: inset 0px 0px 0px 1px #282828, inset 0px 2px 1px 0px rgba(255,255,255,0.1);
-						color: #2E2E2E !important;
+						color: #FFFFFF !important;
 						display: block;
 						font-size: 26px;
 						height: 48px;
@@ -623,7 +623,7 @@
 
 		.wrapper.style4
 		{
-			background-color: #303030;
+			background-color: #006666;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
 		}
@@ -661,7 +661,7 @@
 
 	#nav
 	{
-		background-color: #282828;
+		background-color: #43B3E0;
 		text-align: center;
 		position: fixed;
 		left: 0;
